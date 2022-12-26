@@ -1,4 +1,15 @@
+# Add this keys in the .env file
+
+REACT_APP_GOOGLE_API_KEY=
+REACT_APP_GOOGLE_CLIENT_ID=
+
+## Use the below links to generate API keys and client ID
+Goto google cloud console and create project-> create web app-> Goto credentials tab generate API key -> goto web app to get the client id -> Enable Google Calendar API
+https://console.cloud.google.com/apis/credentials
+https://console.cloud.google.com/apis/credentials/oauthclient/
+
 # Verified App on the netlify env below are the screenshots for it 
+
 ![image](https://user-images.githubusercontent.com/5129299/209473428-bca4531a-ae9e-4da0-8465-eeff7dc4611d.png)
 
 ![image](https://user-images.githubusercontent.com/5129299/209473451-5ce950f5-2e05-4e0e-9f31-59cdcf5af466.png)
